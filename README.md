@@ -17,5 +17,5 @@
 ![image](https://github.com/armin2080/SimplexSolver/assets/78423228/fdadc0e7-4966-4fa6-8410-dcde75f4f84a)
 ### Also because we have only 2 variables , The programm plots subjects:
 ![image](https://github.com/armin2080/SimplexSolver/assets/78423228/d17745ba-922a-4247-952d-e76451e0f6de)
-### by clicking on "next" and "prev" buttons you can iterate through different levels of solving the problem using simplex method. In the last ### step, the programm show the output of problem:
+### by clicking on "next" and "prev" buttons you can iterate through different steps of solving the problem using simplex method. In the last step, the programm show the output of problem:
 ![image](https://github.com/armin2080/SimplexSolver/assets/78423228/3e8b71e4-c830-4ea0-881d-a28000fb0bb9)
